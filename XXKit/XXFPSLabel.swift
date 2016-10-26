@@ -6,6 +6,8 @@
 //  Copyright © 2016年 rookie. All rights reserved.
 //
 
+//  Tag 0.0.2
+
 import UIKit
 
 class XXFPSLabel: UILabel {
