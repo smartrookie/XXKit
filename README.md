@@ -1,7 +1,7 @@
 XXKit
 ==============
 
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)]&nbsp;
+![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)&nbsp;
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)&nbsp;
 
 XXKit just show FPS in application.
